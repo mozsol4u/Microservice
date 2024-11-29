@@ -19,6 +19,7 @@ pipeline {
                         sh "docker push mozsol4u/adservice:latest "
                     }
                 }
+                
             }
         }
     }
